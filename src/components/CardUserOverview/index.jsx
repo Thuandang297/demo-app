@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image } from 'antd';
-import girlImage from '../../assets/girl.jpg';
+import girlImage from '../../assets/girl.png';
 
 const CardUserOverview = () => {
     return (
